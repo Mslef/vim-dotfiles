@@ -20,7 +20,6 @@ Plugin 'airblade/vim-gitgutter'
 
 
 call vundle#end()            " required
-execute pathogen#infect()
 syntax on
 
 
