@@ -21,7 +21,7 @@ Plugin 'airblade/vim-gitgutter'
 
 call vundle#end()            " required
 syntax on
-
+set nu
 
 set background=dark
 let g:solarized_termcolors=256
