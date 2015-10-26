@@ -17,7 +17,9 @@ Plugin 'scrooloose/syntastic'
 Plugin 'hynek/vim-python-pep8-indent'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'airblade/vim-gitgutter'
-
+Plugin 'kchmck/vim-coffee-script'
+Plugin 'StanAngeloff/php.vim'
+Plugin 'othree/html5.vim'
 
 call vundle#end()            " required
 syntax on
